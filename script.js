@@ -33,6 +33,6 @@ do {
     }else if(continuar = "no") {
         alert("De acuerdo, nos vemos luego :3")
     }
-}while(cantidad < 10000 || aunMas < 10000 || mas < 10000)
+}while(agregar = "no" || cantidad < 10000 || aunMas < 10000 || mas < 10000)
 
 alert("Hay demasiados caramelos en frasco. Gracias por dejar tus caramelos <3 ¡Hasta pronto!")
